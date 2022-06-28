@@ -30,3 +30,7 @@ const team = [
          ruolo : "Graphic Designer"
       },
 ];
+
+for(i = 0; i < team.length; i++){
+    console.log(team[i]);
+};
